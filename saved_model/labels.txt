@@ -1,0 +1,7 @@
+bicycle
+bottle
+glass
+headphones
+keyboard
+laptop
+monitor
